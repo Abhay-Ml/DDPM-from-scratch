@@ -1,0 +1,26 @@
+
+# Dataset
+data/
+
+# Model checkpoints
+checkpoints/
+
+# Generated samples
+samples/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment/secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
